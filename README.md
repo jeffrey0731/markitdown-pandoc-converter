@@ -34,7 +34,7 @@ pip install "markitdown[all]"
 
 # 安装 Pandoc（命令行工具，非 Python 包）
 # Windows：
-winget install --id JGM.Pandoc
+winget install --id JohnMacFarlane.Pandoc
 # 或前往 https://pandoc.org/installing.html 下载安装包
 
 # macOS：
